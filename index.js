@@ -11,11 +11,11 @@ function yourAnimal() { var animal = 'cat'
   return animal;
 }
 
-function add2() { var n = 'number';
-  return n + 2
+function add2() { var = 'number';
+  return number + 2
 
   // Feel free to move things around!
-  const n = 2
+  const number = 2
 }
 
 var funkyFunction = function() {
