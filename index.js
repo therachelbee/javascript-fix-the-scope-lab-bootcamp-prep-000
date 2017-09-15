@@ -11,10 +11,8 @@ function yourAnimal() { var animal = 'cat'
   return animal;
 }
 
-function add2() { var = 'number';
-  return number + 2
-
-  // Feel free to move things around!
+function add2() { 
+  return += 2
   const number = 2
 }
 
