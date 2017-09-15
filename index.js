@@ -11,9 +11,8 @@ function yourAnimal() { var animal = 'cat'
   return animal;
 }
 
-function add2() { 
-  return += 2
-  const number = 2
+function add2() {
+  return number += 2
 }
 
 var funkyFunction = function() {
